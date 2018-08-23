@@ -1,0 +1,9 @@
+//Hack 1.0
+#include<stdlib.h>
+#include<stdio.h>
+
+int main(int argc char **argv) {
+
+  printf("My name is Isaac Nelson and I am a Computer Science major.");
+  return 0;
+}
